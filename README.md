@@ -40,8 +40,7 @@ A Flutter-based news aggregator app that fetches and displays news articles from
 
 You can find the APK file in the apk/ directory.
 (https://inquisitive-kitsune-90e9b1.netlify.app)
-**Screen shots**
-(https://github.com/user-attachments/assets/b5815397-9731-4e30-9f61-d75998369427)
-)
 
+**Screen shots**
+![WhatsApp Image 2025-05-10 at 3 35 52 PM](https://github.com/user-attachments/assets/8a570d6a-8442-4aac-9000-8e373681aed2)
 
