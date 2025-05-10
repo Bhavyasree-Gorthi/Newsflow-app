@@ -35,9 +35,6 @@ A Flutter-based news aggregator app that fetches and displays news articles from
 - Uses https://newsapi.org/ for fetching news articles
 - Optional: Set up a custom Node.js backend API for serving trending news
 
-License
-
-This project is licensed under the https://opensource.org/licenses/MIT.
 
 **APK File**
 
