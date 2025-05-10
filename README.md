@@ -41,9 +41,3 @@ A Flutter-based news aggregator app that fetches and displays news articles from
 You can find the APK file in the apk/ directory.
 (https://inquisitive-kitsune-90e9b1.netlify.app)
 
-
-- A README.md file with instructions on how to run the app
-- A LICENSE file with the MIT License
-- A .gitignore file to ignore unnecessary files
-- Commit messages that follow the GitHub guidelines
-
