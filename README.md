@@ -46,6 +46,6 @@ You can find the APK file in the apk/ directory.
 
 - A README.md file with instructions on how to run the app
 - A LICENSE file with the MIT License
-- A .gitignore file to ignore unnecessary files
+- A .gitignore file to ignore unnecessary files(.gitignore)
 - Commit messages that follow the GitHub guidelines
 
