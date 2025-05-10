@@ -26,7 +26,7 @@ A Flutter-based news aggregator app that fetches and displays news articles from
 
 **Getting Started**
 
-1. Clone the repository: git clone https://github.com/your-username/news-aggregator-app.git
+1. Clone the repository: git clone https://github.com/Bhavyasree-Gorthi/Newsflow-app
 2. Install dependencies: flutter pub get
 3. Run the app: flutter run
 
